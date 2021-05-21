@@ -33,6 +33,60 @@ ul {
 
 /* Samandar start */
 
+.Samandar {
+  font-family: var(--font-primary);
+  color: #692340;
+}
+
+.samandar__title {
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  padding-bottom: 116px;
+}
+
+.samandar__txt {
+  font-weight: 400;
+  font-size: 112px;
+  padding-bottom: 11px;
+}
+
+.samandar__h1 {
+  font-weight: 400;
+  font-size: 39px;
+  line-height: 44px;
+  width: 460px;
+  padding-bottom: 18px;
+}
+
+.samandar__txt2 {
+  font-size: 16px;
+  line-height: 22px;
+  width: 432px;
+}
+
+.samandar__text2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.samandar__h2 {
+  font-weight: 400;
+  font-size: 54px;
+  width: 470px;
+  text-align: center;
+  margin-bottom: 37px;
+}
+
+.samandar__p {
+  width: 522px;
+  text-align: center;
+}
+
+
+
 
 
 /* Samandar end */
